@@ -12,7 +12,14 @@ A **full-stack store application** built with **MERN (MongoDB, Express, React, N
 
 - **Frontend:** React, Chakra UI, Zustand (State Management)  
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB  
+- **Database:** MongoDB
+
+## 👨‍🏫 Acknowledgments
+
+This project was built as part of a tutorial/course on [Platform Name] (e.g., Udemy, YouTube, etc.). It helped me learn the basics of the MERN stack and full-stack development. 
+
+- Course Link: [https://www.youtube.com/watch?v=O3BUHwfHf84]
+
 
 ## 📸 Preview  
 
