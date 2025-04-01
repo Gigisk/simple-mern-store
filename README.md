@@ -12,7 +12,14 @@ A **full-stack store application** built with **MERN (MongoDB, Express, React, N
 
 - **Frontend:** React, Chakra UI, Zustand (State Management)  
 - **Backend:** Node.js, Express  
-- **Database:** MongoDB  
+- **Database:** MongoDB
+
+## 👨‍🏫 Acknowledgments
+
+This project was built as part of a tutorial/course from FreeCodeCamp academy. It helped me learn the basics of the MERN stack and full-stack development. 
+
+- 🎥[Course Link](https://www.youtube.com/watch?v=O3BUHwfHf84)
+
 
 ## 📸 Preview  
 
@@ -20,10 +27,12 @@ A **full-stack store application** built with **MERN (MongoDB, Express, React, N
 
 ## 🚀 Getting Started  
 
-### Setup .env file
+### Setup .env file  
+
+Create a `.env` file in the **server** directory with the following variables:  
 
 ```shell
-MONGO_URI=mongodb+srv://gigisk:YaGwE7izlVIxM5qL@cluster0.u3yeagz.mongodb.net/products?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=your-mongodb-connection-string
 PORT=5001
 ```
 
