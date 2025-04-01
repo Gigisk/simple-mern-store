@@ -20,10 +20,12 @@ A **full-stack store application** built with **MERN (MongoDB, Express, React, N
 
 ## 🚀 Getting Started  
 
-### Setup .env file
+### Setup .env file  
+
+Create a `.env` file in the **server** directory with the following variables:  
 
 ```shell
-MONGO_URI=mongodb+srv://gigisk:YaGwE7izlVIxM5qL@cluster0.u3yeagz.mongodb.net/products?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=your-mongodb-connection-string
 PORT=5001
 ```
 
