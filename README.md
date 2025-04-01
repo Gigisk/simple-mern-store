@@ -16,9 +16,9 @@ A **full-stack store application** built with **MERN (MongoDB, Express, React, N
 
 ## 👨‍🏫 Acknowledgments
 
-This project was built as part of a tutorial/course on [Platform Name] (e.g., Udemy, YouTube, etc.). It helped me learn the basics of the MERN stack and full-stack development. 
+This project was built as part of a tutorial/course from FreeCodeCamp academy. It helped me learn the basics of the MERN stack and full-stack development. 
 
-- Course Link: [https://www.youtube.com/watch?v=O3BUHwfHf84]
+- 🎥[Course Link](https://www.youtube.com/watch?v=O3BUHwfHf84)
 
 
 ## 📸 Preview  
