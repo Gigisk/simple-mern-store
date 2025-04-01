@@ -21,9 +21,17 @@ This project was built as part of a tutorial/course from FreeCodeCamp academy. I
 - 🎥[Course Link](https://www.youtube.com/watch?v=O3BUHwfHf84)
 
 
-## 📸 Preview  
+## 📸 Preview    
 
-![Simple Store Screenshot](/frontend/public/demo-readme.png)
+### Main Page  
+<img src="/frontend/public/demo-main.png" alt="Main Page Screenshot" width="600"/>  
+
+### Create Product Page  
+<img src="/frontend/public/demo-create.png" alt="Create Product Page Screenshot" width="600"/>
+
+### Update Product Page  
+<img src="/frontend/public/demo-update.png" alt="Update Product Page Screenshot" width="600"/>
+
 
 ## 🚀 Getting Started  
 
@@ -32,7 +40,7 @@ This project was built as part of a tutorial/course from FreeCodeCamp academy. I
 Create a `.env` file in the **server** directory with the following variables:  
 
 ```shell
-MONGO_URI=your-mongodb-connection-string
+MONGO_URI=your_mongo_uri
 PORT=5001
 ```
 
